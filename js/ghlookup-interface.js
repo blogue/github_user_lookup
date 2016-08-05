@@ -28,6 +28,5 @@ $(document).ready(function(){
 
     newGhSearch.searchByUserName(userName, displayUser);
     newGhSearch.getRepos(userName, displayRepos);
-
   });
 });
