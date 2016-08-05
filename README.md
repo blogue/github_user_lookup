@@ -10,9 +10,9 @@ This app uses the Github API. It allows a user to search for a Github user by na
 ## Setup/Installation Requirements
 
 * Clone the github repository.
-* Create .env file in the main directory and enter your apiKey in this format: exports.apiKey = 'YOUR-API-KEY';
-* In the console type 'npm install' followed by 'bower install'
-* In the console enter 'gulp build' and then 'gulp serve'
+* Create .env file in the main directory and enter your Github API key in this format: exports.apiKey = 'YOUR-API-KEY';
+* In the terminal enter 'npm install' followed by 'bower install'
+* In the terminal enter 'gulp build' and then 'gulp serve'
 * Your browser should then open to http://localhost:3000.
 
 ## Known Bugs

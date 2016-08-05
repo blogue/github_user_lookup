@@ -20,7 +20,6 @@ var displayRepos = function(userRepos) {
 };
 
 $(document).ready(function(){
-
   $('#user-search').submit(function(event){
     event.preventDefault();
     var userName = $('#name').val();
