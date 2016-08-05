@@ -1,11 +1,11 @@
 {
-  "name": "alarm-clock",
+  "name": "ghlookup",
   "description": "",
   "main": "index.js",
   "authors": [
-    ""
+    "Ben Logue"
   ],
-  "license": "ISC",
+  "license": "MIT",
   "homepage": "",
   "ignore": [
     "**/.*",
